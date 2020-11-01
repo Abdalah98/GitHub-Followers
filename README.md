@@ -18,6 +18,7 @@ This my New app I Use the GitHub API - No authentication needed(Follower &amp; U
 - Search Functionality 
 
 screenShots about the run app
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/41602889/97793073-aab42b00-1bef-11eb-81d9-b990464fa1c2.gif)
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/41602889/97793075-b142a280-1bef-11eb-9063-ef665a0b8f77.gif)
