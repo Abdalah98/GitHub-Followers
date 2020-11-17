@@ -20,7 +20,7 @@ This my New app I Use the GitHub API - No authentication needed(Follower &amp; U
 screenShots about the run app 
 Search Functionality by used UICollectionView - Diffable Data Source new iOS13
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/41602889/97793073-aab42b00-1bef-11eb-81d9-b990464fa1c2.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/41602889/97793073-aab42b00-1bef-11eb-81d9-b990464fa1c2.gif) 
 
 loadaing animation more user by used UICollectionView - Diffable Data Source new iOS13 
 
@@ -46,8 +46,6 @@ when didselect any item present inforamtion about user
 
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2020-11-01 at 03 04 57](https://user-images.githubusercontent.com/41602889/97793081-dd5e2380-1bef-11eb-8b4c-33635bff72d2.png)
 
-![Simulator Screen Shot - iPhone 11 Pro Max - 2020-11-01 at 03 05 08](https://user-images.githubusercontent.com/41602889/97793085-e2bb6e00-1bef-11eb-8a78-5a2ab2b9ee45.png)
-
-![Simulator Screen Shot - iPhone 11 Pro Max - 2020-11-01 at 03 05 20](https://user-images.githubusercontent.com/41602889/97793086-e4853180-1bef-11eb-91cb-7a9ef5eba519.png)
+![Simulator Screen Shot - iPhone 11 Pro Max - 2020-11-01 at 03 05 08](https://user-images.githubusercontent.com/41602889/97793085-e2bb6e00-1bef-11eb-8a78-5a2ab2b9ee45.png) || ![Simulator Screen Shot - iPhone 11 Pro Max - 2020-11-01 at 03 05 20](https://user-images.githubusercontent.com/41602889/97793086-e4853180-1bef-11eb-91cb-7a9ef5eba519.png)
 
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2020-11-01 at 03 05 50](https://user-images.githubusercontent.com/41602889/97793089-e949e580-1bef-11eb-9dfa-91f4c6a5ad75.png)
