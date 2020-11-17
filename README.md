@@ -39,12 +39,5 @@ screenShots about the run app
 <kbd><img src="https://user-images.githubusercontent.com/41602889/97793079-d9ca9c80-1bef-11eb-8083-d932f0e9bbf4.png" width="200" height="380">
 
  #### when didselect any item present inforamtion about user
-<kbd><img src="https://user-images.githubusercontent.com/41602889/97793081-dd5e2380-1bef-11eb-8b4c-33635bff72d2.png" width="200" height="380">  </kbd><kbd><img src="https://user-images.githubusercontent.com/41602889/97793085-e2bb6e00-1bef-11eb-8a78-5a2ab2b9ee45.png" width="200" height="380"></kbd>  </kbd><kbd><img src="https://user-images.githubusercontent.com/41602889/97793086-e4853180-1bef-11eb-91cb-7a9ef5eba519.png" width="200" height="380"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/41602889/97793081-dd5e2380-1bef-11eb-8b4c-33635bff72d2.png" width="200" height="380">  </kbd><kbd><img src="https://user-images.githubusercontent.com/41602889/97793085-e2bb6e00-1bef-11eb-8a78-5a2ab2b9ee45.png" width="200" height="380"></kbd>  </kbd><kbd><img src="https://user-images.githubusercontent.com/41602889/97793086-e4853180-1bef-11eb-91cb-7a9ef5eba519.png" width="200" height="380"></kbd> </kbd><kbd><img src="https://user-images.githubusercontent.com/41602889/97793089-e949e580-1bef-11eb-9dfa-91f4c6a5ad75.png" width="200" height="380"></kbd>
 
-
-
-![Simulator Screen Shot - iPhone 11 Pro Max - 2020-11-01 at 03 04 57]()
-
-![Simulator Screen Shot - iPhone 11 Pro Max - 2020-11-01 at 03 05 08]() || ![Simulator Screen Shot - iPhone 11 Pro Max - 2020-11-01 at 03 05 20]()
-
-![Simulator Screen Shot - iPhone 11 Pro Max - 2020-11-01 at 03 05 50](https://user-images.githubusercontent.com/41602889/97793089-e949e580-1bef-11eb-9dfa-91f4c6a5ad75.png)
